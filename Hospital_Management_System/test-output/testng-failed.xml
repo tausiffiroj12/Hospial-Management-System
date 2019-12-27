@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test name="Default test(failed)">
+    <classes>
+      <class name="com.tausif.selenium.java.TC_002_HMS_Login_Logout">
+        <methods>
+          <include name="hmsLogin_Logout"/>
+          <include name="beforeTest"/>
+        </methods>
+      </class> <!-- com.tausif.selenium.java.TC_002_HMS_Login_Logout -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
